@@ -1,0 +1,18 @@
+{
+  "global": {},
+  "$themes": [
+    {
+      "id": "6a8d43166663a79d362136e94548b498151f59ff",
+      "name": "night",
+      "selectedTokenSets": {
+        "global": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
